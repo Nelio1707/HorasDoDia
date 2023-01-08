@@ -1,1 +1,2 @@
 # HorasDoDia
+Olá! Eu gostaria de apresentar o meu projeto "Horas Do Dia". Este é um aplicativo que muda automaticamente a imagem e o fundo de acordo com a hora do dia. Isso significa que, se você abrir o aplicativo às 9 da manhã, verá uma imagem e um fundo diferentes do que se abrisse às 15h. Além de ser uma forma divertida de acompanhar o tempo, também é uma maneira de deixar o seu dispositivo mais personalizado e único. Estou muito animado para compartilhar este projeto com você e espero que você goste tanto quanto eu!
